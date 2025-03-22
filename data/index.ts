@@ -10,7 +10,8 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title:
+      "Whether you're looking for robust web apps or sleek, responsive designs, I craft digital products that deliver.",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -40,7 +41,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title: "Hands-on experience in Fullstack Development, AI/ML, and Robotics",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -82,11 +83,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
+    title: "Furniture E-Commerce Store",
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "p2.svg",
-    iconLists: ["next.svg", "tail.svg", "ts.svg", "stream.svg", "c.svg"],
-    link: "/ui.yoom.com",
+    iconLists: ["wpress.svg", "js.svg", "php.svg", "ts.svg"],
+    link: "https://www.moebeler.de",
   },
   {
     id: 3,
@@ -142,26 +143,26 @@ export const testimonials = [
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "cloud.svg",
-    nameImg: "cloudName.svg",
+    name: "wordpress",
+    img: "wpress.svg",
+    nameImg: "wpName.svg",
   },
   {
     id: 2,
-    name: "appwrite",
-    img: "app.svg",
+    name: "NodeJS",
+    img: "node.svg",
     nameImg: "appName.svg",
   },
   {
     id: 3,
-    name: "HOSTINGER",
-    img: "host.svg",
+    name: "Figma",
+    img: "figma.svg",
     nameImg: "hostName.svg",
   },
   {
     id: 4,
-    name: "stream",
-    img: "s.svg",
+    name: "tensorflow",
+    img: "tflow.svg",
     nameImg: "streamName.svg",
   },
   {
@@ -175,29 +176,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Full Stack Development",
+    desc: "I craft scalable, responsive web applications tailored to user needs. Every line of code is written with clarity, maintainability, and performance in mind.",
     className: "md:col-span-2",
     thumbnail: "exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Website Design & Development",
+    desc: "From concept to launch, I design pixel-perfect, user-first websites. My focus: clean aesthetics, smooth interactivity, and optimized performance.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Backend & API Development",
+    desc: "Reliable backends are the foundation of strong applications. I build secure APIs and database-driven systems, ensuring data flow is efficient and scalable.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "AI & Machine Learning Solutions",
+    desc: "Bridging the gap between data and functionality, I integrate AI models into applications—whether it's data analysis, recommendation systems, or automation.",
     className: "md:col-span-2",
     thumbnail: "exp4.svg",
   },
