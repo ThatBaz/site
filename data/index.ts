@@ -53,7 +53,7 @@ export const gridItems = [
   {
     id: 5,
     title:
-      "Currently building micro-projects that combine fullstack development with AI.\nAlways polishing and expanding my JS, PHP, and backend skills",
+      "Currently building micro-projects that combine fullstack development with AI. <br> --Always polishing and expanding my JS, PHP, and backend skills",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
