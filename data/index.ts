@@ -53,7 +53,7 @@ export const gridItems = [
   {
     id: 5,
     title:
-      "Currently building micro-projects that combine fullstack development with AI. <br> --Always polishing and expanding my JS, PHP, and backend skills",
+      "Currently building micro-projects that combine fullstack development with AI & I'm always polishing and expanding my JS, PHP, and backend skills",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -86,7 +86,7 @@ export const projects = [
     id: 2,
     title: "Furniture E-Commerce Store",
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "p2.svg",
+    img: "moebeler.png",
     iconLists: ["wpress.svg", "js.svg", "php.svg", "ts.svg"],
     link: "https://www.moebeler.de",
   },
