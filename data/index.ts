@@ -3,7 +3,7 @@ import Image from "next/image";
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
-  { name: "Experience", link: "#experience" },
+  { name: "Services", link: "#services" },
   { name: "Contact", link: "#contact" },
 ];
 
@@ -86,7 +86,7 @@ export const projects = [
     id: 2,
     title: "Furniture E-Commerce Store",
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "moebeler1.png",
+    img: "moebeler.svg",
     iconLists: ["wpress.svg", "js.svg", "php.svg", "ts.svg"],
     link: "https://www.moebeler.de",
   },
