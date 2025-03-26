@@ -66,9 +66,9 @@ const Hero = () => {
             className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl"
           />
 
-          <a href="#about" title="About Me">
+          <a href="https://thatbaz.github.io/MyJourney/" title="My Journey">
             <MagicButton
-              title="Show my work"
+              title="My Journey"
               icon={<FaLocationArrow />}
               position="right"
             />
