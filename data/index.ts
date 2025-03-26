@@ -76,36 +76,36 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "p1.svg",
+    title: "3D portfolio journey site",
+    des: "Explore my coding journey with this captivating 3D simulation of a flight using Three.js.",
+    img: "journey.svg",
     iconLists: ["re.svg", "tail.svg", "ts.svg", "three.svg", "fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://thatbaz.github.io/MyJourney/",
   },
   {
     id: 2,
     title: "Furniture E-Commerce Store",
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "moebeler.png",
+    img: "moebeler1.png",
     iconLists: ["wpress.svg", "js.svg", "php.svg", "ts.svg"],
     link: "https://www.moebeler.de",
   },
-  {
-    id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "p3.svg",
-    iconLists: ["re.svg", "tail.svg", "ts.svg", "three.svg", "c.svg"],
-    link: "/ui.aiimg.com",
-  },
-  {
-    id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "p4.svg",
-    iconLists: ["next.svg", "tail.svg", "ts.svg", "three.svg", "gsap.svg"],
-    link: "/ui.apple.com",
-  },
+  // {
+  //   id: 3,
+  //   title: "AI Image SaaS - Canva Application",
+  //   des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+  //   img: "p3.svg",
+  //   iconLists: ["re.svg", "tail.svg", "ts.svg", "three.svg", "c.svg"],
+  //   link: "/ui.aiimg.com",
+  // },
+  // {
+  //   id: 4,
+  //   title: "Animated Apple Iphone 3D Website",
+  //   des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+  //   img: "p4.svg",
+  //   iconLists: ["next.svg", "tail.svg", "ts.svg", "three.svg", "gsap.svg"],
+  //   link: "/ui.apple.com",
+  // },
 ];
 
 export const testimonials = [
